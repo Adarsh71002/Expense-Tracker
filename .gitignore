@@ -1,0 +1,4 @@
+# Example corrected .gitignore
+node_modules/
+dist/
+.env
